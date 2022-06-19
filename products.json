@@ -1,114 +1,114 @@
 [
   {
     "id": 1,
-    "name": "C++ Hoodie",
+    "name": "fun-tastic T-Shirt",
     "price": 49,
-    "category": "Hoodie",
-    "image": "/images/cplusplus.jpg"
+    "category": "T-Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\f1.jpg"
   },
   {
     "id": 2,
-    "name": "CSS Sweater",
+    "name": "Go-Green T-Shirt",
     "price": 49,
-    "category": "Sweater",
-    "image": "/images/css.jpg"
+    "category": "T-Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\f2.jpg"
   },
   {
     "id": 3,
-    "name": "GitHub Mask",
+    "name": "Rosemerta T-Shirt",
     "price": 19,
-    "category": "Mask",
-    "image": "/images/github.jpg"
+    "category": "T-Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\f3.jpg"
   },
   {
     "id": 4,
-    "name": "HTML T-Shirt",
+    "name": "Cherry-Bollosm T-Shirt",
     "price": 39,
     "category": "T-Shirt",
-    "image": "/images/html.jpg"
+    "image": "C:\Users\cw\Desktop\ihi\f4.jpg"
   },
   {
     "id": 5,
-    "name": "Java T-Shirt",
+    "name": "bollosm T-Shirt",
     "price": 39,
     "category": "T-Shirt",
-    "image": "/images/java.jpg"
+    "image": "C:\Users\cw\Desktop\ihi\f5.jpg"
   },
   {
     "id": 6,
-    "name": "JavaScript Hoodie",
+    "name": "Jeans Hoodie",
     "price": 49,
     "category": "Hoodie",
-    "image": "/images/javascript.jpg"
+    "image": "C:\Users\cw\Desktop\ihi\f6.jpg"
   },
   {
     "id": 7,
-    "name": "MongoDB T-Shirt",
+    "name": "Khaki short",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/mongodb.png"
+    "category": "Short",
+    "image": "C:\Users\cw\Desktop\ihi\f7.jpg"
   },
   {
     "id": 8,
-    "name": "Node.js T-Shirt",
+    "name": "Black-Cat Poncho",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/node.js.jpg"
+    "category": "Poncho",
+    "image": "C:\Users\cw\Desktop\ihi\f8.jpg"
   },
   {
     "id": 9,
-    "name": "npm Hat",
+    "name": "Plain Shirt",
     "price": 29,
-    "category": "Hat",
-    "image": "/images/npm.jpg"
+    "category": "Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\n1.jpg"
   },
   {
     "id": 10,
-    "name": "Python T-Shirt",
+    "name": "Casual Shirt",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/python.jpg"
+    "category": "Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\n2.jpg"
   },
   {
     "id": 11,
-    "name": "React T-Shirt",
+    "name": "Opal Shirt",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/react.jpg"
+    "category": "Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\n3.jpg"
   },
   {
     "id": 12,
-    "name": "Angular T-Shirt",
+    "name": "Autumn Shirt",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/angular.jpg"
+    "category": "Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\n4.jpg"
   },
   {
     "id": 13,
-    "name": "Vite T-Shirt",
+    "name": "Jeans Shirt",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/vite.jpg"
+    "category": "Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\n5.jpg"
   },
   {
     "id": 14,
-    "name": "TailwindCSS Jacket",
+    "name": "90s Short",
     "price": 39,
-    "category": "Jacket",
-    "image": "/images/tailwind.jpg"
+    "category": "Shorts",
+    "image": "C:\Users\cw\Desktop\ihi\n6.jpg"
   },
   {
     "id": 15,
-    "name": "VS Code T-Shirt",
+    "name": "Skin Shirt",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/vscode.jpg"
+    "category": "Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\n7.jpg"
   },
   {
     "id": 16,
-    "name": "Vue T-Shirt",
+    "name": "Black Shirt",
     "price": 39,
-    "category": "T-Shirt",
-    "image": "/images/vue.jpg"
+    "category": "Shirt",
+    "image": "C:\Users\cw\Desktop\ihi\n8.jpg"
   }
 ]
